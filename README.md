@@ -1,5 +1,7 @@
 # Charge Control for Wind Turbine Buffer Battery
 
+![Off-Grid Energy Flow](./flow.png)
+
 I have an off-grid energy setup that has solar and wind. Solar charges the 48v battery bank directly, but the wind turbine pushes power to a secondary 24v pack that runs the control logic of the turbine as well as buffers energy.
 
 Most 24v -> 48v gear is for automotive or marine use where the assumption is that when you're charging from 24v the altenator is supplying power. But for a wind turbine that's not the case since it's very intermittent.
