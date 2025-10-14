@@ -1,4 +1,4 @@
-# Node-RED Charge Control for Wind Turbine Buffer Battery
+# Charge Control for Wind Turbine Buffer Battery
 
 I have an off-grid energy setup that has solar and wind. Solar charges the 48v battery bank directly, but the wind turbine pushes power to a secondary 24v pack that runs the control logic of the turbine as well as buffers energy.
 
