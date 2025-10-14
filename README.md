@@ -4,7 +4,7 @@ I have an off-grid energy setup that has solar and wind. Solar charges the 48v b
 
 Most 24v -> 48v gear is for automotive or marine use where the assumption is that when you're charging from 24v the altenator is supplying power. But for a wind turbine that's not the case since it's very intermittent.
 
-Using the standard voltage based control 24v buffer at its knees and only lasted seconds. I plan to switch from the AGM buffer bank to LTO chemistry that is fine with this. But for now I want to make sure I don't kill my buffer batteries.
+Using the standard voltage based control put the 24v buffer at its knees and only lasted seconds. I plan to switch from the AGM buffer bank to LTO chemistry that is fine with this. But for now I want to make sure I don't kill my buffer batteries.
 
 ## Node-RED on the Cerbo GX for reliable control
 
