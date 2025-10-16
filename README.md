@@ -35,5 +35,4 @@ You can see the script running in different conditions in this voltage graph:
 
 ## Warranty and liability
 
-I hold no responsibility for this software or anyone that. This is merely a public repository as a backup for myself and those interested in similar functionality.
-
+I hold no responsibility for this piece of software. This is merely a public repository as a backup for myself and a reference to those interested in similar functionality.
